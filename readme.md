@@ -71,14 +71,22 @@ LSI SHOP est une application web de gestion de commandes, développée dans le c
 
 > **Insérez ici vos captures d’écran principales :**
 > - Page de connexion (Login)
+![image](https://github.com/user-attachments/assets/8718e645-b7ea-44ad-9ade-79ae4d1cef38)
+
 > - Page d’inscription (Register)
+![image](https://github.com/user-attachments/assets/c9bd73a7-834d-4bbc-83e1-7a2e22083fc7)
+
 > - Vue principale de gestion des commandes (Order)
-> - Exemple de PDF généré (si bonus réalisé)
+![image](https://github.com/user-attachments/assets/f2882da2-dd71-4218-879c-c7ce09959539)
+
+> - Exemple de PDF généré
+![image](https://github.com/user-attachments/assets/33f8c874-6589-42a3-bb34-3df41be148b8)
+
 
 ---
 
 ## Remarques
-- Projet réalisé sous Linux, Angular 17+, Node.js 18+, MongoDB 6+
+- Projet réalisé sous Linux, Angular 19, Node.js 22, MongoDB
 - Design responsive, expérience utilisateur soignée
 - Respect des bonnes pratiques de sécurité et de développement
 
